@@ -1,4 +1,4 @@
-# Generating Self-Similar-Tilings
+# Kenyon’s Tilings From Free Group Endomorphisms
 * This project isinspired by the paper [The Construction of Self-Similar Tilings](https://arxiv.org/pdf/math/9505210.pdf).
 
 ## Methodology
